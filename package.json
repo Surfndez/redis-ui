@@ -63,7 +63,7 @@
     "license": "MIT",
     "devDependencies": {
         "corifeus-builder": "^2020.10.152",
-        "electron": "^11.1.0",
+        "electron": "^41.2.0",
         "electron-builder": "^22.9.1",
         "rimraf": "^3.0.2"
     },
@@ -78,7 +78,7 @@
         "angular-material": "^1.2.2",
         "angular-messages": "^1.8.2",
         "configstore": "^4.0.0",
-        "electron-updater": "^4.3.5",
+        "electron-updater": "^6.8.3",
         "fontsource-roboto": "^3.1.5",
         "get-port": "^5.1.1",
         "p3x-redis-ui-material": "^2020.10.553",
